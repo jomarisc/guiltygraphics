@@ -8,3 +8,6 @@ The program that we will be using in order to model the various objects will be 
 The biggest challenge would probably be the overall lack of experience with certain software. However, there are several challenges that are presented to this group which all vary depending on the member. For some, this class is their first experience with Unity and shaders. Others have never tried their hand at 3D modeling. Altogether, none of us have ever tried creating a shader that can mimic cell shading.  
 ## Work Distribution:
 3D Models: 1 for each group member. Cell Shading: All 3  
+
+## Final
+Our final product is a scene in the Unity engine. The scene is comprised of our three models arranged on a stage, with a background from the Guilty Gear series. A shader, 'Toon', is applied over the scene to give a cel-shaded look. 
