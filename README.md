@@ -11,3 +11,6 @@ The biggest challenge would probably be the overall lack of experience with cert
 
 ## Final
 Our final product is a scene in the Unity engine. The scene is comprised of our three models arranged on a stage, with a background from the Guilty Gear series. A shader, 'Toon', is applied over the scene to give a cel-shaded look. 
+
+## Problems
+Sammy: I faced issues working on the Junkyard Dog model in the UV mapping process. I had to clean up my seams in blender to ensure a non-distorted/rotated UV texture map.
